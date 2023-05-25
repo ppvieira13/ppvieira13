@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learnig**
 
-- 💬 Me pergunte **SQL, Power BI, Excel,Google Data Studio...**
+- 💬 Me pergunte **SQL, Power BI, Python, Excel,Google Data Studio...**
 
 - 📫 Você pode me encontrar através do email **ppvieira13@gmail.com**
 
